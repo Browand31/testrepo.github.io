@@ -1,0 +1,20 @@
+00:00:00.769817 VirtualBox GUI VM Selector Window 6.1.18 r142142 win.amd64 (Jan  7 2021 15:32:19) release log
+00:00:00.769820 Log opened 2021-04-21T01:03:04.980751600Z
+00:00:00.769820 Build Type: release
+00:00:00.769822 OS Product: Windows 10
+00:00:00.769823 OS Release: 10.0.19041
+00:00:00.769824 OS Service Pack: 
+00:00:00.789838 DMI Product Name: Inspiron 5505
+00:00:00.797997 DMI Product Version: 1.4.0
+00:00:00.798006 Firmware type: UEFI
+00:00:00.798240 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.798254 Host RAM: 7545MB (7.3GB) total, 2287MB (2.2GB) available
+00:00:00.798257 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.798257 Process ID: 24944
+00:00:00.798258 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.798520 Qt version: 5.6.2
+00:00:00.822830 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.429698 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.465397 refreshCertificates/#3: Found 1/73 SSL certs we/you trust (previously 1/61).
+00:00:49.566152 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:50.418122 GUI: UIMediumEnumerator: Medium-enumeration finished!

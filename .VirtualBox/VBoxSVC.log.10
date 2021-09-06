@@ -1,0 +1,132 @@
+00:00:00.002768 main     VirtualBox COM Server 6.1.18 r142142 win.amd64 (Jan  7 2021 15:32:19) release log
+00:00:00.002771 main     Log opened 2021-02-16T02:16:00.758804800Z
+00:00:00.002771 main     Build Type: release
+00:00:00.002775 main     OS Product: Windows 10
+00:00:00.002775 main     OS Release: 10.0.19041
+00:00:00.002776 main     OS Service Pack: 
+00:00:00.075795 main     DMI Product Name: Inspiron 5505
+00:00:00.086556 main     DMI Product Version: 1.4.0
+00:00:00.086566 main     Firmware type: UEFI
+00:00:00.086758 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.086774 main     Host RAM: 7545MB (7.3GB) total, 3242MB (3.1GB) available
+00:00:00.086777 main     Executable: C:\VBoxSVC.exe
+00:00:00.086777 main     Process ID: 18560
+00:00:00.086777 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.141511          VirtualBox: object creation starts
+00:00:00.141732          Home directory: 'C:\Users\bri23\.VirtualBox'
+00:00:00.141850          Installed Drivers:
+00:00:00.154662            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.18.42142)
+00:00:00.154965            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.18.42142)
+00:00:00.155213            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.18.42142)
+00:00:00.155455            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.18.42142)
+00:00:00.155763          Loading settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.157137          usbLibGetDevices: Starting USB device enumeration
+00:00:00.157370          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&2f6e09c7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+00:00:00.159151          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&2f6e09c7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.160090          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.160126          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x565a)
+00:00:00.160153          USB: Unknown USB device detected (idVendor: 0x27c6, idProduct: 0x538d)
+00:00:00.160165          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0029)
+00:00:00.225743          HostDnsMonitor: initializing
+00:00:00.231905          HostDnsMonitor: updating information
+00:00:00.231945          HostDnsMonitor: old information
+00:00:00.231946            no server entries
+00:00:00.231947            no domain set
+00:00:00.231947            no search string entries
+00:00:00.231948          HostDnsMonitor: new information
+00:00:00.231948            server 1: 1.1.1.1
+00:00:00.231949            server 2: 8.8.8.8
+00:00:00.231949            no domain set
+00:00:00.231949            no search string entries
+00:00:00.275570          VD: VDInit finished with VINF_SUCCESS
+00:00:00.276583          Loading settings file "C:\Users\bri23\VirtualBox VMs\Website Machiene\Website Machiene.vbox" with version "1.16-windows"
+00:00:00.277952          VirtualBox: object created
+00:00:20.372467          Saving settings file "C:\Users\bri23\VirtualBox VMs\Website Machiene\Website Machiene.vbox" with version "1.16-windows"
+00:00:21.792022          Launched VM: 68316608 pid: 20588 (0x506c) frontend: GUI/Qt name: Website Machiene
+00:00:22.460450 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Website Machiene' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\Website Machiene\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:03:17.427492 createBase Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:18.094897          Saving settings file "C:\Users\bri23\VirtualBox VMs\Virtual sites\Virtual sites.vbox" with version "1.16-windows"
+00:03:18.332125          Saving settings file "C:\Users\bri23\VirtualBox VMs\Virtual sites\Virtual sites.vbox" with version "1.16-windows"
+00:03:18.451992          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:18.535873          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:18.574355          Saving settings file "C:\Users\bri23\VirtualBox VMs\Virtual sites\Virtual sites.vbox" with version "1.16-windows"
+00:03:39.872103          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:04:03.504657          Saving settings file "C:\Users\bri23\VirtualBox VMs\Virtual sites\Virtual sites.vbox" with version "1.16-windows"
+00:04:05.051350          Launched VM: 68656592 pid: 2172 (0x87c) frontend: GUI/Qt name: Virtual sites
+00:04:05.722656 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Virtual sites' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\Virtual sites\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:05:45.294571          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The medium 'C:\Users\bri23\Downloads\ubuntu-18.04.5-desktop-amd64.iso' can't be used as the requested device type (HDD, detected DVD)}, preserve=false aResultDetail=0
+00:06:08.980641          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:08.988281          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:18.631279          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'SATA'}, preserve=false aResultDetail=0
+00:06:18.650599          Saving settings file "C:\Users\bri23\VirtualBox VMs\Virtual sites\Virtual sites.vbox" with version "1.16-windows"
+00:06:20.287934          Launched VM: 68361472 pid: 15740 (0x3d7c) frontend: GUI/Qt name: Virtual sites
+00:06:20.944135 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Virtual sites' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\Virtual sites\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:06:30.744438          Launched VM: 68336160 pid: 16100 (0x3ee4) frontend: headless name: Virtual sites
+00:06:31.431468 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Virtual sites' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\Virtual sites\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:06:36.530983          Launched VM: 68361376 pid: 6636 (0x19ec) frontend: separate name: Virtual sites
+00:06:43.186145 Watcher  Reaper: Pid 6636 (19ec) exited normally: 1 (0x1)
+00:06:53.949620          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'SATA'}, preserve=false aResultDetail=0
+00:06:53.970261          Saving settings file "C:\Users\bri23\VirtualBox VMs\Virtual sites\Virtual sites.vbox" with version "1.16-windows"
+00:06:55.990545          Launched VM: 68361328 pid: 572 (0x23c) frontend: GUI/Qt name: Virtual sites
+00:06:56.635771 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Virtual sites' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\Virtual sites\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:06:56.636386 Watcher  Reaper: Pid 572 (23c) exited normally: -1073741424 (0xc0000190)
+00:07:07.563138          Saving settings file "C:\Users\bri23\VirtualBox VMs\Virtual sites\Virtual sites.vbox" with version "1.16-windows"
+00:07:08.707205          Launched VM: 19310896 pid: 1620 (0x654) frontend: GUI/Qt name: Virtual sites
+00:07:09.371429 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Virtual sites' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\Virtual sites\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:07:19.128719          Saving settings file "C:\Users\bri23\VirtualBox VMs\Virtual sites\Virtual sites.vbox" with version "1.16-windows"
+00:07:20.096726          Launched VM: 68361472 pid: 4376 (0x1118) frontend: GUI/Qt name: Virtual sites
+00:07:20.751116 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Virtual sites' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\Virtual sites\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:07:20.751472 Watcher  Reaper: Pid 4376 (1118) exited normally: -1073741424 (0xc0000190)
+00:07:33.295952          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:33.304635          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:34.823598          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'SATA'}, preserve=false aResultDetail=0
+00:07:34.841677          Saving settings file "C:\Users\bri23\VirtualBox VMs\Virtual sites\Virtual sites.vbox" with version "1.16-windows"
+00:07:36.534722          Launched VM: 68336304 pid: 18440 (0x4808) frontend: GUI/Qt name: Virtual sites
+00:07:37.191061 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Virtual sites' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\Virtual sites\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:07:37.191437 Watcher  Reaper: Pid 18440 (4808) exited normally: -1073741424 (0xc0000190)
+00:08:14.567353          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The medium 'C:\Users\bri23\Downloads\ubuntu-18.04.5-desktop-amd64.iso' can't be used as the requested device type (HDD, detected DVD)}, preserve=false aResultDetail=0
+00:11:07.211353 createBase Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:11:07.735041          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:11:07.892576          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:11:07.969967          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:11:08.093282          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:11:08.211972          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:11:23.471667          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:11:24.790609          Launched VM: 68360992 pid: 3500 (0xdac) frontend: GUI/Qt name: ubuntu1804
+00:11:25.448203 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'ubuntu1804' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\ubuntu1804\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:12:13.517975          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:12:43.829809          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:12:50.503630          Launched VM: 68614064 pid: 18160 (0x46f0) frontend: GUI/Qt name: ubuntu1804
+00:12:51.154385 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'ubuntu1804' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\ubuntu1804\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:13:06.806043          Launched VM: 68656832 pid: 21396 (0x5394) frontend: GUI/Qt name: Virtual sites
+00:13:07.477731 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Virtual sites' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\Virtual sites\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:13:17.292701          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:13:46.135006          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:14:39.516624          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE'}, preserve=false aResultDetail=0
+00:14:39.537854          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:14:41.162513          Launched VM: 68336304 pid: 15116 (0x3b0c) frontend: GUI/Qt name: ubuntu1804
+00:14:41.823496 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'ubuntu1804' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\ubuntu1804\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:15:15.719845          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE'}, preserve=false aResultDetail=0
+00:15:15.740529          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:15:20.140099          Launched VM: 68788128 pid: 11848 (0x2e48) frontend: GUI/Qt name: ubuntu1804
+00:15:20.797606 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'ubuntu1804' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\ubuntu1804\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:16:26.513257          Launched VM: 68344864 pid: 4684 (0x124c) frontend: GUI/Qt name: ubuntu1804
+00:16:27.183457 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'ubuntu1804' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\ubuntu1804\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:16:27.183864 Watcher  Reaper: Pid 4684 (124c) exited normally: -1073741424 (0xc0000190)
+00:16:31.552933          Launched VM: 68342992 pid: 8424 (0x20e8) frontend: headless name: ubuntu1804
+00:16:32.227067 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'ubuntu1804' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\ubuntu1804\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:16:32.227451 Watcher  Reaper: Pid 8424 (20e8) exited normally: -1073741424 (0xc0000190)
+00:16:37.317681          Launched VM: 68345056 pid: 14860 (0x3a0c) frontend: separate name: ubuntu1804
+00:16:59.696194 Watcher  Reaper: Pid 14860 (3a0c) exited normally: 1 (0x1)
+00:17:29.644562          Saving settings file "C:\Users\bri23\VirtualBox VMs\ubuntu1804\ubuntu1804.vbox" with version "1.16-windows"
+00:20:01.386201          Launched VM: 68795584 pid: 20152 (0x4eb8) frontend: GUI/Qt name: ubuntu1804
+00:20:02.056836 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'ubuntu1804' has terminated unexpectedly during startup with exit code -1073741424 (0xc0000190).  More details may be available in 'C:\Users\bri23\VirtualBox VMs\ubuntu1804\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:37:43.604598          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:39:34.417137          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:39:34.421670          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:39:34.425259          Saving settings file "C:\Users\bri23\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:39:39.934487 main     VirtualBox: object deletion starts
+00:39:39.938357 main     HostDnsMonitor: shutting down ...
+00:39:39.938466 main     HostDnsMonitor: shut down
+00:39:39.941344 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:39:39.941544 main     VirtualBox: object deleted

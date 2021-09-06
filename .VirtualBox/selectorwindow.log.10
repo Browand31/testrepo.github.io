@@ -1,0 +1,63 @@
+00:00:00.398097 VirtualBox GUI VM Selector Window 6.1.18 r142142 win.amd64 (Jan  7 2021 15:32:19) release log
+00:00:00.398099 Log opened 2021-02-16T02:16:01.056688200Z
+00:00:00.398099 Build Type: release
+00:00:00.398101 OS Product: Windows 10
+00:00:00.398102 OS Release: 10.0.19041
+00:00:00.398103 OS Service Pack: 
+00:00:00.412348 DMI Product Name: Inspiron 5505
+00:00:00.415569 DMI Product Version: 1.4.0
+00:00:00.415579 Firmware type: UEFI
+00:00:00.415818 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.415841 Host RAM: 7545MB (7.3GB) total, 3230MB (3.1GB) available
+00:00:00.415846 Executable: C:\VirtualBox.exe
+00:00:00.415847 Process ID: 16776
+00:00:00.415848 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.416158 Qt version: 5.6.2
+00:00:00.427907 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.802633 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:20.500660 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:20.504177 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:25.018094 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:03:18.036643 GUI: UIMediumEnumerator: Medium with key={{2ea3a013-4230-4485-b342-b5d2f2b43c5b}} created
+00:03:18.868898 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:03.624709 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:03.629454 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:08.279669 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:06:18.775408 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:18.778776 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:25.612303 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:06:34.413576 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:06:37.141025 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:06:54.093075 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:54.095970 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:58.876217 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:07:07.701590 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:07.705265 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:11.505875 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:07:19.253590 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:19.258481 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:22.856839 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:07:34.961090 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:34.965097 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:39.444269 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:11:07.825470 GUI: UIMediumEnumerator: Medium with key={{311cd2c3-d2be-43c9-88f3-bdcd65ccbfbc}} created
+00:11:08.526166 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:23.634717 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:23.638938 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:27.694829 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:12:13.646827 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:43.961079 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:00.432016 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:13:10.399422 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:13:46.300678 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:39.657979 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:39.660698 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:44.797916 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:15:15.890082 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:15.893457 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:27.773087 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:16:29.066235 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:16:35.076894 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:16:37.926369 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:17:29.772082 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:21:01.605807 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
